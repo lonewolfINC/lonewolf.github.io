@@ -1,6 +1,5 @@
 # lonewolf.github.io
 web
-<!DOCTYPE html> 
 <html>
 <head>
     <meta charset="utf-8">
